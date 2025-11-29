@@ -1,68 +1,77 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Lavkush%20Bind&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Senior%20Mobile%20&%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+ 
+  <!-- Animated Header: Looks very high-tech and modern -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Mobile+Engineer;Architecting+Scalable+Systems;Crafting+Pixel-Perfect+UI;Kotlin+%7C+Flutter+%7C+React+Native" alt="Typing SVG" />
+
+  <br/>
+
+  <!-- Clean Social Badges with Custom Colors -->
+  <a href="https://www.linkedin.com/in/lavkush-bind-a95620269/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lavkushnew1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://play.google.com/store/apps/developer?id=Blanklearn">
+    <img src="https://img.shields.io/badge/Play_Store-0F9D58?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+
 </div>
+
+<br/>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lavkush-bind-a95620269/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:lavkushnew1@gmail.com)
-  [![Play Store](https://img.shields.io/badge/Google_Play-My_Apps-4caf50?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Blanklearn)
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
+
+---
+
+### ⚡ Engineering Philosophy
+> *"I don't just build apps; I engineer digital experiences. My focus is on writing clean, efficient code that powers intuitive and beautiful user interfaces."*
+
+I specialize in the **complete development lifecycle**—from designing complex architectures (Clean/MVVM) to deploying scalable backend systems. I bridge the gap between **robust logic** and **modern design**.
+
+---
+
+### 🛠️ The Arsenal (Tech Stack)
+
+<div align="center">
+
+| **Mobile & UI** | **Core & Backend** | **DevOps & Tools** |
+|:---:|:---:|:---:|
+| ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=7F52FF) | ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00) | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032) |
+| ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B) | ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933) | ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28) |
+| ![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB) | ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1) | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED) |
+| ![Compose](https://img.shields.io/badge/Jetpack_Compose-000000?style=for-the-badge&logo=android&logoColor=3DDC84) | ![REST API](https://img.shields.io/badge/Rest_API-000000?style=for-the-badge&logo=fastapi&logoColor=009688) | ![CI/CD](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white) |
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 💎 Featured Products & Deployments
 
-I am a **Senior Software Engineer** with **5+ years of experience** in architecting scalable mobile and web solutions. My expertise lies in building high-performance applications using **Native Android (Kotlin/Java)** and **Cross-Platform frameworks (Flutter/React Native)** backed by robust backend systems.
+A showcase of high-performance applications live on the Google Play Store, featuring **AI integration, Real-time communication, and Modern UI.**
 
-*   🔭 **Currently working on:** Scaling EdTech solutions at **[Blanklearn](https://play.google.com/store/apps/developer?id=Blanklearn)**.
-*   📱 **Specialization:** Mobile Architecture (MVVM/Clean), Real-time Systems, and AI Integration.
-*   🛠 **Core Competencies:** Full App Lifecycle, CI/CD Pipelines, Unit Testing, and System Design.
-
----
-
-### 🚀 Tech Stack & Arsenal
-
-| **Category** | **Technologies** |
-|:---:|:---|
-| **📱 Mobile Native** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=android&logoColor=white) |
-| **⚛️ Cross-Platform** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) |
-| **🖥️ Backend & DB** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
-| **⚙️ Architecture & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-
----
-
-### 🏆 Featured Live Products (50k+ Users Impact)
-
-I don't just write code; I ship products. Here are some of my top-rated applications live on the Google Play Store.
-
-| App Name | Description & Tech Stack | Link |
+| **Product** | **Tech & Engineering** | **Action** |
 | :--- | :--- | :---: |
-| **Blanklearn: 1-1 Class** | **EdTech Platform** <br> Architected complete user lifecycle, secure payments, and live classes.<br> *Tech: Kotlin, MVVM, WebRTC, Node.js* | [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/100px-Google_Play_Store_badge_EN.svg.png)](https://play.google.com/store/apps/details?id=com.blank_learn.dark) |
-| **Vibe: Dating & Chat** | **Social Networking** <br> Real-time messaging & Face Verification security using ML Kit.<br> *Tech: Android, Firebase Firestore, ML Kit* | [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/100px-Google_Play_Store_badge_EN.svg.png)](https://play.google.com/store/apps/details?id=com.dark.mark) |
-| **Divine Astro** | **AI-Powered Astrology** <br> Integrated Gemini API for dynamic AI predictions and AdMob.<br> *Tech: Java, Google Generative AI, Rest API* | [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/100px-Google_Play_Store_badge_EN.svg.png)](https://play.google.com/store/apps/details?id=com.dark.predictions) |
-| **Clarity AI** | **Relationship Advice AI** <br> AI Chatbot for mental wellness and advice.<br> *Tech: Flutter, OpenAI API, Cloud Functions* | [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/100px-Google_Play_Store_badge_EN.svg.png)](https://play.google.com/store/apps/details?id=com.dark.advice) |
-| **ImageConverter.Ai** | **Utility Tool** <br> High-performance image processing tool.<br> *Tech: Android Native, Bitmap Processing* | [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/100px-Google_Play_Store_badge_EN.svg.png)](https://play.google.com/store/apps/details?id=com.imageconverter.dark) |
+| <img src="https://cdn-icons-png.flaticon.com/512/2991/2991195.png" width="35"/> **Blanklearn**<br>_EdTech Platform_ | 🔹 **Architecture:** MVVM Clean Arch<br>🔹 **Key:** WebRTC, Secure Payments, 1-1 Classes<br>🔹 **Impact:** Scalable User Lifecycle Management | [![View](https://img.shields.io/badge/View_App-2563EB?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.blank_learn.dark) |
+| <img src="https://cdn-icons-png.flaticon.com/512/2111/2111651.png" width="35"/> **Vibe**<br>_Social & Dating_ | 🔹 **Security:** Face Verification (ML Kit)<br>🔹 **Real-time:** Cloud Firestore Messaging<br>🔹 **UX:** Modern Fluid Animations | [![View](https://img.shields.io/badge/View_App-E11D48?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dark.mark) |
+| <img src="https://cdn-icons-png.flaticon.com/512/4206/4206036.png" width="35"/> **Divine Astro**<br>_AI Astrology_ | 🔹 **AI Core:** Google Gemini API Integration<br>🔹 **Monetization:** AdMob implementation<br>🔹 **Logic:** Dynamic Prediction Algorithms | [![View](https://img.shields.io/badge/View_App-7C3AED?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dark.predictions) |
+| <img src="https://cdn-icons-png.flaticon.com/512/4712/4712038.png" width="35"/> **Clarity AI**<br>_Mental Wellness_ | 🔹 **Engine:** OpenAI GPT Integration<br>🔹 **Platform:** Flutter Cross-Platform<br>🔹 **Focus:** Conversational UI Design | [![View](https://img.shields.io/badge/View_App-059669?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dark.advice) |
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavkushbind&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkushbind&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lavkushbind&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=9CA3AF" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkushbind&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=9CA3AF" height="150" alt="languages graph" />
 </div>
 
-<br>
-
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavkushbind&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak graph" />
-</div>
-
----
+<br/>
 
 <div align="center">
-  <h3>Let's Build Something Amazing Together! 🤝</h3>
-  <p>Open for Senior Developer roles and High-Ticket Freelance Projects.</p>
+  <a href="https://linkedin.com/in/lavkush-bind-a95620269/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-Let's_Build-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
