@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Lavkush%20Bind&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Senior%20Mobile%20&%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Lavkush%20Bind&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Mobile%20%26%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Senior Software Engineer** with **5+ years of experience** in architecting scalable mobile and web solutions. My expertise lies in building high-performance applications using **Native Android (Kotlin/Java)** and **Cross-Platform frameworks (Flutter/React Native)** backed by robust backend systems.
+I am a passionate **Software Engineer** specializing in architecting scalable mobile and web solutions. My expertise lies in building high-performance applications using **Native Android (Kotlin/Java)** and **Cross-Platform frameworks (Flutter/React Native)** backed by robust backend systems.
 
 *   🔭 **Currently working on:** Scaling EdTech solutions at **[Blanklearn](https://play.google.com/store/apps/developer?id=Blanklearn)**.
 *   📱 **Specialization:** Mobile Architecture (MVVM/Clean), Real-time Systems, and AI Integration.
@@ -50,19 +50,26 @@ I don't just write code; I ship products. Here are some of my top-rated applicat
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lavkushbind&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkushbind&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="160" alt="languages graph"  />
-</div>
+  
+  <!-- Snake Animation -->
+  <img src="https://github-readme-snake.vercel.app/api?username=lavkushbind&color_snake=58A6FF&color_dots=0D1117,161b22,21262d,262c36,0e4429&animation=fade" alt="snake graph" />
+  
+  <br/><br/>
 
-<br>
+  <!-- Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lavkushbind&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavkushbind&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="languages graph" />
 
-<div align="center"> 
+  <br/>
+
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavkushbind&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak graph" />
+  
 </div>
 
 ---
 
 <div align="center">
   <h3>Let's Build Something Amazing Together! 🤝</h3>
-  <p>Open for Senior Developer roles and High-Ticket Freelance Projects.</p>
+  <p>Open for Engineering roles and High-Ticket Freelance Projects.</p>
 </div>
