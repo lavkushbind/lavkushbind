@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer** with **3+ years of experience** in architecting scalable mobile and web solutions. My expertise lies in building high-performance applications using **Native Android (Kotlin/Java)** and **Cross-Platform frameworks (Flutter/React Native)** backed by robust backend systems.
+I am a **Software Engineer** with **2+ years of experience** in architecting scalable mobile and web solutions. My expertise lies in building high-performance applications using **Native Android (Kotlin/Java)** and **Cross-Platform frameworks (Flutter/React Native)** backed by robust backend systems.
 
 *   🔭 **Currently working on:** Scaling EdTech solutions at **[Blanklearn](https://play.google.com/store/apps/developer?id=Blanklearn)**.
 *   📱 **Specialization:** Mobile Architecture (MVVM/Clean), Real-time Systems, and AI Integration.
